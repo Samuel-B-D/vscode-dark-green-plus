@@ -3,12 +3,31 @@
     "displayName": "Dark Green+",
     "description": "A dark green theme easy on the eyes, using vs-dark code color scheme.",
     "version": "0.0.1",
+    "publisher": "kazelone",
     "engines": {
         "vscode": "^1.40.0"
+    },
+    "homepage": "https://github.com/kazelone/vscode-dark-green-plus",
+    "author": {
+        "name": "Kaz",
+        "url": "https://github.com/kazelone"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kazelone/vscode-dark-green-plus"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "VSCode",
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#11131C",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
