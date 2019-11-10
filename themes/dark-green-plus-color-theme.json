@@ -5,7 +5,7 @@
 		"activityBar.background": "#021302",
 		"activityBar.border": "#003300",
 		"activityBar.foreground": "#00FF00",
-		"activityBar.inactiveForeground": "#FFFFFF",
+		"activityBar.inactiveForeground": "#eeeeeeee",
 		"activityBarBadge.background": "#5ccc00",
 		"badge.background": "#04b11b",
 		"badge.foreground": "#000000",
@@ -21,7 +21,7 @@
 		"editor.findMatchBackground": "#5283125b",
 		"editor.findMatchHighlightBackground": "#4f7c1457",
 		"editor.findRangeHighlightBackground": "#26302354",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#898c19" ,
 		"editor.inactiveSelectionBackground": "#194d22ce",
 		"editor.selectionBackground": "#196626",
 		"editor.selectionHighlightBackground": "#adffb426",
@@ -100,7 +100,7 @@
 		"sideBarSectionHeader.background": "#0c270c",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"statusBar.background": "#004400",
-		"statusBar.foreground": "#FFFFFF",
+		"statusBar.foreground": "#eeeeeeee",
 		"statusBar.noFolderBackground": "#010c00",
 		"statusBar.noFolderForeground": "#aaaaaa",
 		"statusBarItem.hoverBackground": "#ffffff55",
@@ -124,7 +124,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#e258bd" 
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#e258bd" 
 			}
 		},
 		{
@@ -400,7 +400,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#e258bd" 
 			}
 		},
 		{
@@ -451,7 +451,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#e258bd" 
 			}
 		},
 		{
