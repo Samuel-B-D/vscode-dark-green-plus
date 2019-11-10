@@ -1,8 +1,8 @@
 # Dark Green+
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/kazelone.vscode-dark-green-plus.svg)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/kazelone.vscode-dark-green-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/kazelone.vscode-dark-green-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/kazelone.vscode-dark-green-plus.svg)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/kazelone.vscode-dark-green-plus.svg)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
 
 A dark green theme that's easy on the eyes.<br/>
 For people who like green!
