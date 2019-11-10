@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "vscode-dark-green-plus"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dark Green+
+A dark green, easy on the eyes theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Screenshot
+Empty editor
+![Empty editor](https://i.imgur.com/dKMMJl6.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Opened folder + json
+![Opened folder + json](https://i.imgur.com/NMOf6Pn.png)
 
-**Enjoy!**
+Typescript
+![Typescript](https://i.imgur.com/SLXzZSd.png)
