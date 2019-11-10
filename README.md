@@ -4,7 +4,8 @@
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/kazelone.vscode-dark-green-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/kazelone.vscode-dark-green-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
 
-A dark green, easy on the eyes theme.
+A dark green theme that's easy on the eyes.<br/>
+For people who like green!
 
 ## Screenshot
 Empty editor
