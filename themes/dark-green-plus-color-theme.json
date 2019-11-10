@@ -21,7 +21,7 @@
 		"editor.findMatchBackground": "#5283125b",
 		"editor.findMatchHighlightBackground": "#4f7c1457",
 		"editor.findRangeHighlightBackground": "#26302354",
-		"editor.foreground": "#aaaaaa" ,
+		"editor.foreground": "#bbbbbb" ,
 		"editor.inactiveSelectionBackground": "#194d22ce",
 		"editor.selectionBackground": "#196626",
 		"editor.selectionHighlightBackground": "#adffb426",
@@ -148,7 +148,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#3fb70a"
+				"foreground": "#007d0b"
 			}
 		},
 		{

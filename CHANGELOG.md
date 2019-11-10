@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.4](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.0.4) (2019-11-10)
+
+* Changed comment color to dark green.
+
 ## [1.0.3](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.0.3) (2019-11-10)
 
 * Changed back the default editor foreground to gray.
