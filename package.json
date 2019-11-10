@@ -2,7 +2,7 @@
     "name": "vscode-dark-green-plus",
     "displayName": "Dark Green+",
     "description": "A dark green theme that's easy on the eyes.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "kazelone",
     "engines": {
         "vscode": "^1.40.0"
