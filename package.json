@@ -2,7 +2,7 @@
     "name": "vscode-dark-green-plus",
     "displayName": "Dark Green+",
     "description": "A dark green theme easy on the eyes, using vs-dark code color scheme.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "kazelone",
     "engines": {
         "vscode": "^1.40.0"

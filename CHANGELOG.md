@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "vscode-dark-green-plus" extension will be documented in this file.
+## [1.0.0](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.0.0) (2019-11-10)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+* Initial stable release.
