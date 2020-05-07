@@ -16,3 +16,6 @@ Opened folder + json
 
 Typescript
 ![Typescript](https://i.imgur.com/SLXzZSd.png)
+
+Rust
+![Rust](https://i.imgur.com/4Uirrb2.png)

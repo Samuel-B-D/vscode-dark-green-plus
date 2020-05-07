@@ -21,7 +21,7 @@
 		"editor.findMatchBackground": "#5283125b",
 		"editor.findMatchHighlightBackground": "#4f7c1457",
 		"editor.findRangeHighlightBackground": "#26302354",
-		"editor.foreground": "#bbbbbb" ,
+		"editor.foreground": "#c9c9c9" ,
 		"editor.inactiveSelectionBackground": "#194d22ce",
 		"editor.selectionBackground": "#196626",
 		"editor.selectionHighlightBackground": "#adffb426",
@@ -119,6 +119,34 @@
 	},
 	"tokenColors": [
 		{
+            "name": "Meta Attribute Rust",
+            "scope": [
+                "meta.attribute.rust"
+            ],
+            "settings": {
+                "foreground": "#b1af2f"
+            }
+        },
+        {
+            "name": "Storage Modifier Lifetime Rust,entity Name Lifetime Rust",
+            "scope": [
+                "storage.modifier.lifetime.rust",
+                "entity.name.lifetime.rust"
+            ],
+            "settings": {
+                "foreground": "#11c9aa"
+            }
+        },
+        {
+            "name": "Keyword Unsafe Rust",
+            "scope": [
+                "keyword.unsafe.rust"
+            ],
+            "settings": {
+                "foreground": "#c41b29"
+            }
+        },
+		{
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded"
@@ -148,7 +176,16 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#007d0b"
+				"foreground": "#027a0c"
+			}
+		},
+		{
+			"scope": [
+				"comment.block.rust",
+				"comment.line.double-slash.rust"
+			],
+			"settings": {
+				"foreground": "#7e7e7e"
 			}
 		},
 		{
@@ -277,7 +314,7 @@
 			"name": "brackets of XML/HTML tags",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#808080"
+				"foreground": "#838383"
 			}
 		},
 		{
@@ -419,7 +456,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#d5e4cb"
 			}
 		},
 		{
@@ -469,7 +506,17 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#8fea7f"
+				"foreground": "#00c594"
+			}
+		},
+		{
+			"name": "Rust Function declarations",
+			"scope": [
+				"entity.name.function.rust",
+				"support.function.rust",
+			],
+			"settings": {
+				"foreground": "#14a820"
 			}
 		},
 		{
@@ -508,6 +555,34 @@
 			],
 			"settings": {
 				"foreground": "#76a014"
+			}
+		},
+		{
+			"name": "Rust Struct",
+			"scope": [
+				"entity.name.type.rust"
+			],
+			"settings": {
+				"foreground": "#04db70"
+			}
+		},
+		{
+			"name": "Rust type keyword",
+			"scope": [
+				"storage.type.rust",
+			],
+			"settings": {
+				"foreground": "#078d5a"
+			}
+		},
+		{
+			"name": "Rust Turbofish",
+			"scope": [
+				"punctuation.definition.type",
+				"entity.name.type.generic.rust"
+			],
+			"settings": {
+				"foreground": "#e9e9e9"
 			}
 		},
 		{
