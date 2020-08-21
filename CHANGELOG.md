@@ -1,12 +1,16 @@
 # Change Log
 
+## [1.1.2](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.1.1) (2020-08-21)
+
+* Improved syntax highlighting for Rust with semantic highlighting.
+
 ## [1.1.1](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.1.0) (2020-05-06)
 
 * Added icon.
 
 ## [1.1.0](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.1.0) (2020-05-06)
 
-* Better support for rust syntax highlighting.<br>
+* Better support for Rust syntax highlighting.<br>
   works better with [vscode-rust-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-rust-syntax).
 
 ## [1.0.4](https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.0.4) (2019-11-10)
