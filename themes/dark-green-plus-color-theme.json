@@ -440,7 +440,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#e258bd" 
+				"foreground": "#1cc238" 
 			}
 		},
 		{
@@ -509,7 +509,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#00c594"
+				"foreground": "#C586C0"
 			}
 		},
 		{
@@ -725,19 +725,19 @@
 	],
 
 	"semanticTokenColors": {
-        "attribute:rust": "#e47e09",
-        "function.attribute:rust": "#df4e4e",
-        "*.attribute:rust": "#df4e4e",
+        "attribute:rust": "#df4ed8",
+        "function.attribute:rust": "#bb44d3",
+        "*.attribute:rust": "#9432c2",
         
-        "keyword:rust": "#a1a302",
+        "keyword:rust": "#068e76",
         "keyword.unsafe:rust": "#c41c2a",
 
-        "type:rust": "#d5d811",
-        "struct:rust":"#02ac87",
-        "enum:rust": "#02ac87",
+        "type:rust": "#02ac87",
+        "struct:rust":"#a1bb11",
+        "enum:rust": "#a1bb11",
         
-        "function:rust": "#1cc238",
-		"variable:rust": "#0c6eaf",
+        "function:rust": "#84D775",
+		"variable:rust": "#30A8E8",
 		
 		// "property:rust": "#61AFEF",
         // "member:rust": "#61AFEF",
